@@ -1,4 +1,5 @@
 # boxBotics
+<h3> People:
 Nisarg Panchal: https://www.linkedin.com/in/panchalnisarg/
 <p>Krunal Bhatt: https://www.linkedin.com/in/krunalbhatt9/
 <p>Ishika Saijwal: https://www.linkedin.com/in/ishika-saijwal/
