@@ -1,11 +1,12 @@
-# boxBotics
+\# boxBotics
 <h3> People: </h3>  
 <p>Nisarg Panchal: https://www.linkedin.com/in/panchalnisarg/
 <p>Krunal Bhatt: https://www.linkedin.com/in/krunalbhatt9/
 <p>Ishika Saijwal: https://www.linkedin.com/in/ishika-saijwal/
 
 
-<h3> Rendering </h3>  
+
+<h3> Rendering: </h3>  
 
 ![boxBotics](https://github.com/Nisarg236/boxRobotics/assets/71684502/80e9a56d-7f08-4608-b50a-a95681d59105)
 
