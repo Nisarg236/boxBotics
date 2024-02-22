@@ -1,4 +1,4 @@
-\# boxBotics
+# boxBotics
 <h3> People: </h3>  
 <p>Nisarg Panchal: https://www.linkedin.com/in/panchalnisarg/
 <p>Krunal Bhatt: https://www.linkedin.com/in/krunalbhatt9/
